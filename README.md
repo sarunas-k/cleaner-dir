@@ -2,8 +2,8 @@ This CLI script makes your folders cleaner by grouping files by creation year, m
 
 **Steps to run automatically:**
 
-> Prerequisites: Python installed, `python3` command
-1.  Open your CLI console
+> Prerequisites: `python3` and `bash` CLI commands available
+1.  Open your CLI console (prefer Git Bash, Command Prompt)
 1. `cd` to your desireable directory
 1.  Paste in these commands
 ```
@@ -12,5 +12,5 @@ This CLI script makes your folders cleaner by grouping files by creation year, m
   mv cleaner-dir-e4bf331493059b5864fc752c8c8d9ee5701f5f8c/group_dir_files.sh ./group_dir_files.sh
   rm cleaner-dir-e4bf331493059b5864fc752c8c8d9ee5701f5f8c/*
   rmdir cleaner-dir-e4bf331493059b5864fc752c8c8d9ee5701f5f8c
-  bash ./group_dir_files.sh
+  bash group_dir_files.sh
 ```
