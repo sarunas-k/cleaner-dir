@@ -1,4 +1,4 @@
-This CLI script makes your folders cleaner by grouping files by creation year, month or day or file type.
+This CLI script makes your folders cleaner by grouping files by creation year, month and day or file type.
 
 **Steps to run automatically:**
 
