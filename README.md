@@ -1,11 +1,11 @@
-This CLI script makes your folders cleaner by grouping files by creation year, month or day.
+This CLI script makes your folders cleaner by grouping files by creation year, month or day or file type.
 
 **Steps to run automatically:**
 
 > Prerequisites: console with supported Bash and `python3` command
 1.  Open your CLI console
 1. `cd` to your desireable directory
-1.  Run commands
+1.  Run all commands
     ```
       curl -o cleaner-dir.zip -L https://github.com/sarunas-k/cleaner-dir/archive/e4bf331493059b5864fc752c8c8d9ee5701f5f8c.zip
       python3 -m zipfile -e cleaner-dir.zip ./
